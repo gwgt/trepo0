@@ -5,7 +5,7 @@ void main()
 {
 	printf("\n====================\n");
 	printf("\nHELLO JENKINS !");
-	printf("\nAutomatic build after commit !");
+	printf("\nAutomatic build after second commit !");
 	printf("\n====================\n");
 	exit(0);
 }
