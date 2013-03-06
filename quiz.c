@@ -5,7 +5,7 @@ void main()
 {
 	printf("\n====================\n");
 	printf("\nHELLO JENKINS !");
-	printf("\nEight success !");
+	printf("\nSuccess !");
 	printf("\n====================\n");
 	exit(0);
 }
